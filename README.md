@@ -4,9 +4,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/sajjancodes/)
-  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe)](https://drive.google.com/[YOUR-LINK])
-  [![Email](https://img.shields.io/badge/Email-sajjansingh%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:sajjansingh72277@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajjancodes/)
+    [![Email](https://img.shields.io/badge/Email-sajjansingh%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:sajjansingh72277@gmail.com)
   
 </div>
 
@@ -35,7 +34,7 @@
 <!-- Animated project cards -->
 <div align="center">
   
-| [🎯 **Early Diabetes Detection**](https://github.com/Sajjan-Sam/Early-Diabetes-Detection) | [📚 **IoT Virtual Classroom**](https://github.com/Sajjan-Sam/IoT-Classroom) | [🔒 **Federated Learning Framework**](https://github.com/Sajjan-Sam/Federated-Learning) |
+| [🎯 **Early Diabetes Detection**](https://v0-gluco-vision-ai-project.vercel.app/) | [📚 **IoT Virtual Classroom**](https://github.com/Sajjan-Sam/IoT-Classroom) | [🔒 **Federated Learning Framework**](https://ijcres.in/index.php/ijcr/article/view/19) |
 |:---:|:---:|:---:|
 | ![Diabetes Detection Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) | ![IoT Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) | ![FL Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) |
 | **AUC: 0.89** <br> PyTorch, SHAP, AWS | **Real-time Monitoring** <br> Raspberry Pi, MQTT | **Differential Privacy** <br> TensorFlow, DP |
@@ -50,7 +49,7 @@
 <summary><b>📖 Click to View Publications</b></summary>
   
 1. **Jakhar, N., & Singh, S.** (2024).  
-   [Federated Learning: A Potentially Effective Method for Improving the Efficiency and Privacy of Machine Learning]([YOUR-PAPER-LINK]).  
+   [Federated Learning: A Potentially Effective Method for Improving the Efficiency and Privacy of Machine Learning](https://ijcres.in/index.php/ijcr/article/view/19).  
    *International Journal of Convergent Research (IJCR)*, 50–56.  
    `ISSN: 3049-3064`
 
