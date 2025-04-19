@@ -34,7 +34,7 @@
 <!-- Animated project cards -->
 <div align="center">
   
-| [🎯 **Early Diabetes Detection**](https://v0-gluco-vision-ai-project.vercel.app/) | [📚 **IoT Virtual Classroom**](https://github.com/Sajjan-Sam/IoT-Classroom) | [🔒 **Federated Learning Framework**](https://ijcres.in/index.php/ijcr/article/view/19) |
+| [🎯 **Early Diabetes Detection**](https://v0-gluco-vision-ai-project.vercel.app/) | [📚 **IoT Virtual Classroom**](https://drive.google.com/file/d/1oQl9CAgLnPezbKwbOEAw8nF0OqK1hJDh/view?usp=drivesdk) | [🔒 **Federated Learning Framework**](https://ijcres.in/index.php/ijcr/article/view/19) |
 |:---:|:---:|:---:|
 | ![Diabetes Detection Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) | ![IoT Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) | ![FL Demo](https://github.com/Sajjan-Sam/[REPO-NAME]/blob/main/demo.gif?raw=true) |
 | **AUC: 0.89** <br> PyTorch, SHAP, AWS | **Real-time Monitoring** <br> Raspberry Pi, MQTT | **Differential Privacy** <br> TensorFlow, DP |
@@ -54,7 +54,7 @@
    `ISSN: 3049-3064`
 
 2. **Rohit, & Singh, S.** (2024).  
-   [Improve Student Control in Virtual Classrooms using Wireless Net and IoT]([YOUR-PAPER-LINK]).  
+   [Improve Student Control in Virtual Classrooms using Wireless Net and IoT](https://drive.google.com/file/d/1oQl9CAgLnPezbKwbOEAw8nF0OqK1hJDh/view?usp=drivesdk).  
    *NCFCTSD-24*, 577–584.  
 
 </details>
