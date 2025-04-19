@@ -1,0 +1,33 @@
+name: 📚 Update Research Papers
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: 🧠 Install Dependencies
+        run: |
+          pip install feedparser
+
+      - name: 🧬 Run Script to Update README
+        run: python update_papers.py
+
+      - name: 🚀 Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🧠 Auto-update trending research section"
+          git push
