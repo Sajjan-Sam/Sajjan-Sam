@@ -90,6 +90,9 @@
 ---
 
 ## 🌐 Latest Research on Cutting-Edge Tech in CS & AI (🇺🇸 USA & 🇨🇳 China)
+<!--START-RESEARCH-->
+<!-- Research content will be auto-updated here -->
+<!--END-RESEARCH-->
 
 ### 🔬 Curated Picks from Top Authors & Institutions (2024)
 
