@@ -1,20 +1,37 @@
 
+
+<!-- GitHub Profile Introduction -->
+
 <div align="center">
+
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.png" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero-light.png" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg" />
-    <img src="assets/profile-hero-light.svg" alt="Sajjan Singh | PhD Scholar, IISER Bhopal" width="1040" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/hero-dark.svg"
+    />
+    <img
+      src="assets/hero-light.svg"
+      width="100%"
+      alt="Sajjan Singh | PhD Scholar | IISER Bhopal"
+    />
   </picture>
 
   <p>
-    <a href="https://www.linkedin.com/in/sajjancodes/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/sajjancodes/">
+      LinkedIn ↗
+    </a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="mailto:sajjansingh72277@gmail.com">Email</a>
+    <a href="mailto:sajjansingh72277@gmail.com">
+      Email ↗
+    </a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/Sajjan-Sam?tab=repositories">Research Repositories</a>
+    <a href="https://github.com/Sajjan-Sam?tab=repositories">
+      Research Projects ↗
+    </a>
   </p>
+
 </div>
+
 
 
 ## 🧬 Research Focus & Passion Projects
