@@ -1,45 +1,20 @@
 
-<!-- ================= ANIMATED HEADER ================= -->
-
 <div align="center">
-
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:155E75&height=210&section=header&text=Sajjan%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=PhD%20Scholar%20%7C%20IISER%20Bhopal&descSize=20&descAlignY=57&animation=fadeIn"
-    alt="Sajjan Singh - PhD Scholar"
-  />
-
-  <!-- Animated research identity -->
-
-  <a href="https://github.com/Sajjan-Sam">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Computer+Vision+%7C+Image+Processing;Robust+%26+Explainable+Deep+Learning;NIR-to-RGB+%7C+Cross-Spectral+Imaging;RGB-Thermal+%7C+Multimodal+Perception;Trustworthy+AI+%7C+Adverse+Conditions;Edge+AI+%7C+Efficient+Visual+Learning"
-      alt="Animated Research Interests"
-    />
-  </a>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.png" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg" />
+    <img src="assets/profile-hero-light.svg" alt="Sajjan Singh | PhD Scholar, IISER Bhopal" width="1040" />
+  </picture>
 
   <p>
-    <strong>Researching reliable, interpretable and efficient visual intelligence.</strong>
+    <a href="https://www.linkedin.com/in/sajjancodes/">LinkedIn</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:sajjansingh72277@gmail.com">Email</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/Sajjan-Sam?tab=repositories">Research Repositories</a>
   </p>
-
-  <!-- Professional links -->
-
-  <a href="https://www.linkedin.com/in/sajjancodes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sajjansingh72277@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Sajjan-Sam?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
-  </a>
-
 </div>
-
-<!-- ================= END HEADER ================= -->
-
 
 
 ## 🧬 Research Focus & Passion Projects
