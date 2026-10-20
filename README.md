@@ -1,15 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&height=80&lines=Hi!%20I'm%20Sajjan%20Singh;PhD%20Applicant%20in%20AI%20%26%20Healthcare;Federated%20Learning%20%7C%20Edge%20AI%20%7C%20IoT" alt="Animated Intro" />
-</p>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajjancodes/)
-    [![Email](https://img.shields.io/badge/Email-sajjansingh%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:sajjansingh72277@gmail.com)
-  
+
+# Sajjan Singh
+
+### PhD Scholar | Data Science and Engineering
+**Indian Institute of Science Education and Research (IISER) Bhopal**
+
+Advanced Signal and Image Processing Lab (ASIP Lab)
+
+<br>
+
+**Computer Vision · Image Processing · Trustworthy & Explainable AI**
+
+*Developing robust and reliable visual perception under adverse conditions, with research spanning cross-spectral image reconstruction, multimodal learning, and uncertainty-aware computer vision.*
+
+<br>
+
+**Research Focus**
+
+`NIR-to-RGB Translation` · `RGB–Thermal Perception` · `Robust Object Detection` · `Explainable AI` · `Edge AI`
+
+<br>
+
+<a href="https://www.linkedin.com/in/sajjancodes/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:sajjansingh72277@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
 ---
+
 
 ## 🧬 Research Focus & Passion Projects
 
