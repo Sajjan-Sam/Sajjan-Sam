@@ -1,38 +1,45 @@
 
+<!-- ================= ANIMATED HEADER ================= -->
+
 <div align="center">
 
-# Sajjan Singh
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:155E75&height=210&section=header&text=Sajjan%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=PhD%20Scholar%20%7C%20IISER%20Bhopal&descSize=20&descAlignY=57&animation=fadeIn"
+    alt="Sajjan Singh - PhD Scholar"
+  />
 
-### PhD Scholar | Data Science and Engineering
-**Indian Institute of Science Education and Research (IISER) Bhopal**
+  <!-- Animated research identity -->
 
-Advanced Signal and Image Processing Lab (ASIP Lab)
+  <a href="https://github.com/Sajjan-Sam">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Computer+Vision+%7C+Image+Processing;Robust+%26+Explainable+Deep+Learning;NIR-to-RGB+%7C+Cross-Spectral+Imaging;RGB-Thermal+%7C+Multimodal+Perception;Trustworthy+AI+%7C+Adverse+Conditions;Edge+AI+%7C+Efficient+Visual+Learning"
+      alt="Animated Research Interests"
+    />
+  </a>
 
-<br>
+  <p>
+    <strong>Researching reliable, interpretable and efficient visual intelligence.</strong>
+  </p>
 
-**Computer Vision · Image Processing · Trustworthy & Explainable AI**
+  <!-- Professional links -->
 
-*Developing robust and reliable visual perception under adverse conditions, with research spanning cross-spectral image reconstruction, multimodal learning, and uncertainty-aware computer vision.*
-
-<br>
-
-**Research Focus**
-
-`NIR-to-RGB Translation` · `RGB–Thermal Perception` · `Robust Object Detection` · `Explainable AI` · `Edge AI`
-
-<br>
-
-<a href="https://www.linkedin.com/in/sajjancodes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:sajjansingh72277@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <a href="https://www.linkedin.com/in/sajjancodes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sajjansingh72277@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sajjan-Sam?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+  </a>
 
 </div>
 
----
+<!-- ================= END HEADER ================= -->
+
 
 
 ## 🧬 Research Focus & Passion Projects
