@@ -50,10 +50,13 @@
     </a>
   </p>
 
-  <sub>
-    Open to academic collaborations in cross-spectral imaging,
-    adverse-condition vision, and trustworthy visual AI.
-  </sub>
+  
+<sub>
+  🤝 Open to collaborating with passionate researchers worldwide
+  to develop novel ideas, advance impactful AI research,
+  and publish rigorous work at top-tier conferences and journals.
+</sub>
+
 
 </div>
 <!-- End Introduction -->
@@ -153,6 +156,44 @@ Nishant Jakhar, **Sajjan Singh**
 <div align="center">
   <!-- Neon Circuit Intro Banner -->
   <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Neon Circuit Banner" width="90%"/>
+</div>
+
+---
+
+<!-- Research Collaboration -->
+
+<div align="center">
+
+  <h2>🤝 Let's Collaborate on Research</h2>
+
+  <p>
+    Looking for <b>passionate researchers, PhD scholars,
+    and research collaborators</b> interested in exploring
+    novel ideas and conducting high-quality research.
+  </p>
+
+  <p>
+    <b>Computer Vision · Image Processing · Agentic AI</b><br/>
+    <b>Remote Sensing · Multimodal AI · Trustworthy AI</b><br/>
+    <b>Edge AI · Reinforcement Learning · Decision Sciences</b>
+  </p>
+
+  <p>
+    <i>
+      Let's turn challenging research questions into
+      original contributions for leading AI conferences
+      and high-impact journals.
+    </i>
+  </p>
+
+  <a href="mailto:sajjansingh72277@gmail.com?subject=Research%20Collaboration">
+    <img src="https://img.shields.io/badge/Collaborate_on_Research-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Research Collaboration"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sajjancodes/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
 </div>
 
 ---
