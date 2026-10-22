@@ -156,51 +156,7 @@ Nishant Jakhar, **Sajjan Singh**
 </div>
 
 ---
-### 🔬 Explore the Latest Research in AI & CS:
 
-[![Explore AI Research](https://img.shields.io/badge/Explore%20AI%20Research-Explore%20Now-green?style=for-the-badge)](https://arxiv.org/list/cs.AI/recent)
-[![Explore CS Research](https://img.shields.io/badge/Explore%20CS%20Research-Explore%20Now-blue?style=for-the-badge)](https://arxiv.org/list/cs/recent)
-
-
----
-
-## 🌐 Latest Research on Cutting-Edge Tech in CS & AI (🇺🇸 USA & 🇨🇳 China)
-<!--START-RESEARCH-->
-<!-- Research content will be auto-updated here -->
-<!--END-RESEARCH-->
-
-### 🔬 Curated Picks from Top Authors & Institutions (2024)
-
-| 🌍 Region | 🧠 Topic                        | 📘 Paper Title                                                                                  | 📄 PDF                           |
-|----------|----------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------|
-| 🇺🇸 USA  | 🔐 AI Safety & Alignment         | *Safe AI: A Survey of Alignment Strategies in Large Language Models* (Stanford AI Lab)         | [🔎 Search title](https://scholar.google.com/scholar?q=Safe+AI%3A+A+Survey+of+Alignment+Strategies+in+Large+Language+Models) |
-| 🇺🇸 USA  | 🤖 LLMs & Reasoning              | *Toolformer: Language Models Can Teach Themselves to Use Tools* (Meta AI, FAIR)               | [🔗 View PDF](https://arxiv.org/pdf/2302.04761) |
-| 🇨🇳 China | 🧬 Multimodal AI                | *InternVL: Scaling Up Vision-Language Understanding with Multimodal Pretraining* (Tsinghua Univ.) | [🔗 View PDF](https://arxiv.org/pdf/2312.14238) |
-| 🇨🇳 China | 🛰️ AI + Remote Sensing         | *Remote Sensing Scene Classification via Vision Transformers* (Chinese Academy of Sciences)   | [🔎 Search title](https://scholar.google.com/scholar?q=Remote+Sensing+Scene+Classification+via+Vision+Transformers) |
-
----
-
-<a href="https://scholar.google.com/scholar?q=Safe+AI%3A+A+Survey+of+Alignment+Strategies+in+Large+Language+Models" target="_blank">
-  <img src="https://img.shields.io/badge/USA%20-%20AI%20Safety%20Paper-blue?logo=arxiv&amp;style=for-the-badge" alt="Search AI safety paper title" />
-</a>
-<a href="https://arxiv.org/pdf/2312.14238" target="_blank">
-  <img src="https://img.shields.io/badge/China%20-%20Multimodal%20AI%20Paper-red?logo=arxiv&amp;style=for-the-badge" alt="InternVL paper" />
-</a>
-
-
----
-### 🔭 Trending Research Topics
-
-_“Charting tomorrow’s breakthroughs in AI‑powered healthcare.”_
-
-| 🌐 Topic | 🧾 Research Paper | 📄 PDF |
-|---------|------------------|--------|
-| 🔐 **Federated Learning Healthcare** | _A Survey on Federated Learning for Healthcare: Taxonomy and Applications_ | [🔎 Search title](https://scholar.google.com/scholar?q=A+Survey+on+Federated+Learning+for+Healthcare%3A+Taxonomy+and+Applications) |
-| 🧠 **Explainable AI Healthcare** | _Explainable Deep Learning Models in Medical Diagnosis: A Survey_ | [🔎 Search title](https://scholar.google.com/scholar?q=Explainable+Deep+Learning+Models+in+Medical+Diagnosis%3A+A+Survey) |
-| ⚙️ **Edge Computing AI** | _Edge AI: On-Demand Accelerated Deep Learning Inference via Edge Computing_ | [🔎 Search title](https://scholar.google.com/scholar?q=Edge+AI%3A+On-Demand+Accelerated+Deep+Learning+Inference+via+Edge+Computing) |
-| 🩺 **IoT Health Monitoring** | _IoT in Healthcare: Architecture, Applications, and Security Issues_ | [🔎 Search title](https://scholar.google.com/scholar?q=IoT+in+Healthcare%3A+Architecture%2C+Applications%2C+and+Security+Issues) |
-
----
 
 
 ## 🎉 Thank You for Visiting My GitHub Profile! 🚀
