@@ -1,36 +1,28 @@
 
-
-<!-- GitHub Profile Introduction -->
-
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="assets/hero-dark.svg"
-    />
-    <img
-      src="assets/hero-light.svg"
-      width="100%"
-      alt="Sajjan Singh | PhD Scholar | IISER Bhopal"
-    />
-  </picture>
+  <img
+    src="./github-header.gif"
+    alt="Sajjan Singh | PhD Scholar | IISER Bhopal"
+    width="100%"
+  />
 
   <p>
     <a href="https://www.linkedin.com/in/sajjancodes/">
       LinkedIn ↗
     </a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
+    &nbsp; • &nbsp;
     <a href="mailto:sajjansingh72277@gmail.com">
       Email ↗
     </a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
+    &nbsp; • &nbsp;
     <a href="https://github.com/Sajjan-Sam?tab=repositories">
       Research Projects ↗
     </a>
   </p>
 
 </div>
+
 
 
 
