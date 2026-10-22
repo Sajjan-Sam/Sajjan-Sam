@@ -1,4 +1,3 @@
-
 <!-- GitHub Profile Introduction -->
 <div align="center">
 
@@ -31,21 +30,21 @@
   <p>
     <a href="https://github.com/Sajjan-Sam?tab=repositories">
       <img
-        src="https://img.shields.io/badge/Explore_Research-171B23?style=for-the-badge&logo=github&logoColor=white"
+        src="https://img.shields.io/badge/Explore_Research-171B23?style=for-the-badge&amp;logo=github&amp;logoColor=white"
         alt="Explore Research"
       />
     </a>
     &nbsp;
     <a href="mailto:sajjansingh72277@gmail.com?subject=Research%20Collaboration">
       <img
-        src="https://img.shields.io/badge/Collaborate-0D9488?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Collaborate-0D9488?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
         alt="Research Collaboration"
       />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/sajjancodes/">
       <img
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         alt="LinkedIn"
       />
     </a>
@@ -114,11 +113,11 @@ Nishant Jakhar, **Sajjan Singh**
 ### Book Chapters
 
 - **2026** — **Sajjan Singh**.  
-  *[AI and the Future of Work: Redefining Skills, Jobs, and Human Potential](https://www.researchgate.net/publication/405709942).*  
+  *[AI and the Future of Work: Redefining Skills, Jobs, and Human Potential](https://www.researchgate.net/publication/405709942_AI_and_the_Future_of_Work_Redefining_Skills_Jobs_and_Human_Potential).*  
   Next-Gen Machine Learning: Algorithms for Adaptive Intelligence. Book Rivers.
 
 - **2026** — **Sajjan Singh**.  
-  *[Intelligent Financial Systems: Machine Learning Interfaces for Personalized Banking, Fraud Detection, and Advisory Platforms](https://www.researchgate.net/publication/405705595).*  
+  *[Intelligent Financial Systems: Machine Learning Interfaces for Personalized Banking, Fraud Detection, and Advisory Platforms](https://www.researchgate.net/publication/405705595_Intelligent_Financial_Systems_Machine_Learning_Interfaces_for_Personalized_Banking_Fraud_Detection_and_Advisory_Platforms).*  
   AI Interface Engineering: Bridging Machine Learning and User Experiences. Book Rivers.
 
 - **2024** — Nishant Jakhar, **Sajjan Singh**, Ritu.  
@@ -133,7 +132,7 @@ Nishant Jakhar, **Sajjan Singh**
   *Research and Publication Ethics in Digital Era.*  
   Maharshi Dayanand University, pp. 112–119.
 
-
+</details>
 </details>
 
 ---
@@ -145,7 +144,7 @@ Nishant Jakhar, **Sajjan Singh**
   ![UGC NET](https://img.shields.io/badge/UGC%20NET-Computer%20Science-blue)
   ![GATE](https://img.shields.io/badge/GATE-2025%20(CS%2FIT)-orange)
   ![TOP-13 IIT Delhi](https://img.shields.io/badge/TOP--13%20Coordinator-IIT%20Delhi-brightgreen)
-  ![Hackathons](https://img.shields.io/badge/🏆-3%20National%20Wins-9cf)
+  ![Hackathons](https://img.shields.io/badge/%F0%9F%8F%86-3%20National%20Wins-9cf)
 
 </div>
 
@@ -159,8 +158,8 @@ Nishant Jakhar, **Sajjan Singh**
 ---
 ### 🔬 Explore the Latest Research in AI & CS:
 
-[![Explore AI Research](https://img.shields.io/badge/Explore%20AI%20Research-Explore%20Now-green?style=for-the-badge)](https://arxiv.org/)
-[![Explore CS Research](https://img.shields.io/badge/Explore%20CS%20Research-Explore%20Now-blue?style=for-the-badge)](https://arxiv.org/)
+[![Explore AI Research](https://img.shields.io/badge/Explore%20AI%20Research-Explore%20Now-green?style=for-the-badge)](https://arxiv.org/list/cs.AI/recent)
+[![Explore CS Research](https://img.shields.io/badge/Explore%20CS%20Research-Explore%20Now-blue?style=for-the-badge)](https://arxiv.org/list/cs/recent)
 
 
 ---
@@ -174,18 +173,18 @@ Nishant Jakhar, **Sajjan Singh**
 
 | 🌍 Region | 🧠 Topic                        | 📘 Paper Title                                                                                  | 📄 PDF                           |
 |----------|----------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------|
-| 🇺🇸 USA  | 🔐 AI Safety & Alignment         | *Safe AI: A Survey of Alignment Strategies in Large Language Models* (Stanford AI Lab)         | [🔗 View PDF](https://arxiv.org/pdf/2311.00530.pdf) |
-| 🇺🇸 USA  | 🤖 LLMs & Reasoning              | *Toolformer: Language Models Can Teach Themselves to Use Tools* (Meta AI, FAIR)               | [🔗 View PDF](https://arxiv.org/pdf/2302.04761.pdf) |
-| 🇨🇳 China | 🧬 Multimodal AI                | *InternVL: Scaling Up Vision-Language Understanding with Multimodal Pretraining* (Tsinghua Univ.) | [🔗 View PDF](https://arxiv.org/pdf/2305.06566.pdf) |
-| 🇨🇳 China | 🛰️ AI + Remote Sensing         | *Remote Sensing Scene Classification via Vision Transformers* (Chinese Academy of Sciences)   | [🔗 View PDF](https://arxiv.org/pdf/2111.14668.pdf) |
+| 🇺🇸 USA  | 🔐 AI Safety & Alignment         | *Safe AI: A Survey of Alignment Strategies in Large Language Models* (Stanford AI Lab)         | [🔎 Search title](https://scholar.google.com/scholar?q=Safe+AI%3A+A+Survey+of+Alignment+Strategies+in+Large+Language+Models) |
+| 🇺🇸 USA  | 🤖 LLMs & Reasoning              | *Toolformer: Language Models Can Teach Themselves to Use Tools* (Meta AI, FAIR)               | [🔗 View PDF](https://arxiv.org/pdf/2302.04761) |
+| 🇨🇳 China | 🧬 Multimodal AI                | *InternVL: Scaling Up Vision-Language Understanding with Multimodal Pretraining* (Tsinghua Univ.) | [🔗 View PDF](https://arxiv.org/pdf/2312.14238) |
+| 🇨🇳 China | 🛰️ AI + Remote Sensing         | *Remote Sensing Scene Classification via Vision Transformers* (Chinese Academy of Sciences)   | [🔎 Search title](https://scholar.google.com/scholar?q=Remote+Sensing+Scene+Classification+via+Vision+Transformers) |
 
 ---
 
-<a href="https://arxiv.org/pdf/2311.00530.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/USA%20-%20AI%20Safety%20Paper-blue?logo=arxiv&style=for-the-badge" />
+<a href="https://scholar.google.com/scholar?q=Safe+AI%3A+A+Survey+of+Alignment+Strategies+in+Large+Language+Models" target="_blank">
+  <img src="https://img.shields.io/badge/USA%20-%20AI%20Safety%20Paper-blue?logo=arxiv&amp;style=for-the-badge" alt="Search AI safety paper title" />
 </a>
-<a href="https://arxiv.org/pdf/2305.06566.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/China%20-%20Multimodal%20AI%20Paper-red?logo=arxiv&style=for-the-badge" />
+<a href="https://arxiv.org/pdf/2312.14238" target="_blank">
+  <img src="https://img.shields.io/badge/China%20-%20Multimodal%20AI%20Paper-red?logo=arxiv&amp;style=for-the-badge" alt="InternVL paper" />
 </a>
 
 
@@ -196,10 +195,10 @@ _“Charting tomorrow’s breakthroughs in AI‑powered healthcare.”_
 
 | 🌐 Topic | 🧾 Research Paper | 📄 PDF |
 |---------|------------------|--------|
-| 🔐 **Federated Learning Healthcare** | _A Survey on Federated Learning for Healthcare: Taxonomy and Applications_ | [🔗 View PDF](https://arxiv.org/pdf/2107.10295.pdf) |
-| 🧠 **Explainable AI Healthcare** | _Explainable Deep Learning Models in Medical Diagnosis: A Survey_ | [🔗 View PDF](https://arxiv.org/pdf/2005.02596.pdf) |
-| ⚙️ **Edge Computing AI** | _Edge AI: On-Demand Accelerated Deep Learning Inference via Edge Computing_ | [🔗 View PDF](https://arxiv.org/pdf/1904.03272.pdf) |
-| 🩺 **IoT Health Monitoring** | _IoT in Healthcare: Architecture, Applications, and Security Issues_ | [🔗 View PDF](https://arxiv.org/pdf/1903.03096.pdf) |
+| 🔐 **Federated Learning Healthcare** | _A Survey on Federated Learning for Healthcare: Taxonomy and Applications_ | [🔎 Search title](https://scholar.google.com/scholar?q=A+Survey+on+Federated+Learning+for+Healthcare%3A+Taxonomy+and+Applications) |
+| 🧠 **Explainable AI Healthcare** | _Explainable Deep Learning Models in Medical Diagnosis: A Survey_ | [🔎 Search title](https://scholar.google.com/scholar?q=Explainable+Deep+Learning+Models+in+Medical+Diagnosis%3A+A+Survey) |
+| ⚙️ **Edge Computing AI** | _Edge AI: On-Demand Accelerated Deep Learning Inference via Edge Computing_ | [🔎 Search title](https://scholar.google.com/scholar?q=Edge+AI%3A+On-Demand+Accelerated+Deep+Learning+Inference+via+Edge+Computing) |
+| 🩺 **IoT Health Monitoring** | _IoT in Healthcare: Architecture, Applications, and Security Issues_ | [🔎 Search title](https://scholar.google.com/scholar?q=IoT+in+Healthcare%3A+Architecture%2C+Applications%2C+and+Security+Issues) |
 
 ---
 
@@ -216,8 +215,7 @@ Let's collaborate on amazing projects, solve complex problems, and create **next
 - [💬 Let's Talk](mailto:sajjansingh72277@gmail.com)
 
 
-[![Join the Revolution](https://img.shields.io/badge/Join%20The%20Innovation-blue?logo=rocket&style=for-the-badge)](https://github.com/yourusername)
+[![Join the Revolution](https://img.shields.io/badge/Join%20The%20Innovation-blue?logo=rocket&style=for-the-badge)](https://github.com/Sajjan-Sam)
 
 
 ---
-
