@@ -61,85 +61,17 @@
 
 
 
-<!-- ================= RESEARCH FOCUS ================= -->
+## 🔬 Research Interests
 
-<h2>🔬 Research Focus</h2>
-
-<p>
-  My research focuses on <b>robust, explainable, and efficient
-  computer vision</b>, particularly when visual information is
-  incomplete, degraded, or captured beyond the visible spectrum.
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌈 Cross-Spectral Image Reconstruction</h3>
-      <p>
-        Investigating <b>NIR-to-RGB translation</b>, spectral
-        ambiguity, and image reconstruction using deep learning.
-        A central question is how to recover useful visual
-        information without introducing unsupported details.
-      </p>
-      <code>NIR → RGB</code> <code>Image Restoration</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ Multimodal Visual Perception</h3>
-      <p>
-        Exploring how <b>RGB, near-infrared, and thermal
-        information</b> can complement one another for more
-        reliable recognition, detection, and scene understanding
-        across different sensing conditions.
-      </p>
-      <code>RGB–NIR</code> <code>RGB–Thermal</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Trustworthy & Explainable AI</h3>
-      <p>
-        Studying <b>uncertainty, confidence calibration,
-        interpretability, and detection reliability</b>.
-        The goal is to understand when predictions can be
-        trusted and when models should express uncertainty.
-      </p>
-      <code>Explainable AI</code> <code>Reliable Detection</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌙 Robust & Efficient Vision</h3>
-      <p>
-        Developing and evaluating deep learning methods for
-        <b>low-light, nighttime, foggy, and rainy scenes</b>,
-        while investigating the trade-offs between visual
-        quality, model efficiency, and downstream performance.
-      </p>
-      <code>Adverse Conditions</code> <code>Edge AI</code>
-    </td>
-  </tr>
-</table>
-
-<h3>🎯 Current Research Directions</h3>
-
-- **Evidence-aware reconstruction:** Understanding what can and cannot be recovered from NIR measurements.
-- **Adverse-condition perception:** Improving robustness and evaluating generalization across challenging environments.
-- **Reliable predictions:** Investigating calibration, uncertainty, explanation stability, and selective detection.
-- **Efficient visual intelligence:** Studying accuracy, computational cost, and deployment constraints in practical vision systems.
-
-<p>
-  <b>Broader interests:</b> Autonomous perception · Remote sensing ·
-  Decision-focused learning · Multimodal AI
-</p>
-
-<p>
-  <b>🤝 Research collaboration:</b>
-  Interested in collaborating on cross-spectral imaging,
-  trustworthy computer vision, challenging visual datasets,
-  and reproducible deep learning research.
-</p>
+- **Computer Vision & Image Processing** — Image Restoration, Enhancement, Reconstruction
+- **Agentic AI & Intelligent Systems** — AI Agents, Autonomous Reasoning, Multi-Agent Systems
+- **Remote Sensing & Geospatial AI** — Multispectral Imaging, Earth Observation
+- **Multimodal & Cross-Spectral Learning** — RGB, NIR, SWIR, Thermal Vision
+- **Trustworthy & Explainable AI** — Robustness, Uncertainty, XAI
+- **Edge AI & Autonomous Perception** — Efficient Deep Learning, Intelligent Vehicles
+- **Reinforcement & Decision-Focused Learning** — Sequential Decision-Making, Optimization
 
 ---
-
-<!-- ================= END RESEARCH FOCUS ================= -->
 
 
 ### 🚀 **Featured Projects**  
