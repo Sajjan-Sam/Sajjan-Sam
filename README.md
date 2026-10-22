@@ -1,28 +1,63 @@
 
+<!-- GitHub Profile Introduction -->
 <div align="center">
 
-  <img
-    src="./github-header.gif"
-    alt="Sajjan Singh | PhD Scholar | IISER Bhopal"
-    width="100%"
-  />
+  <!-- Existing animated GitHub header -->
+  <a href="https://github.com/Sajjan-Sam">
+    <img
+      src="https://raw.githubusercontent.com/Sajjan-Sam/Sajjan-Sam/main/hero.gif"
+      alt="Sajjan Singh — PhD Scholar at IISER Bhopal"
+      width="100%"
+    />
+  </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/sajjancodes/">
-      LinkedIn ↗
-    </a>
-    &nbsp; • &nbsp;
-    <a href="mailto:sajjansingh72277@gmail.com">
-      Email ↗
-    </a>
-    &nbsp; • &nbsp;
+    <strong>
+      PhD Scholar · Data Science &amp; Engineering · IISER Bhopal
+    </strong>
+    <br/>
+    <em>
+      Building reliable visual perception where conventional cameras struggle.
+    </em>
+  </p>
+
+  <p>
+    <code>NIR → RGB</code> &nbsp;·&nbsp;
+    <code>RGB–Thermal Vision</code> &nbsp;·&nbsp;
+    <code>Robust &amp; Explainable AI</code>
+  </p>
+
+  <!-- Research and collaboration links -->
+  <p>
     <a href="https://github.com/Sajjan-Sam?tab=repositories">
-      Research Projects ↗
+      <img
+        src="https://img.shields.io/badge/Explore_Research-171B23?style=for-the-badge&logo=github&logoColor=white"
+        alt="Explore Research"
+      />
+    </a>
+    &nbsp;
+    <a href="mailto:sajjansingh72277@gmail.com?subject=Research%20Collaboration">
+      <img
+        src="https://img.shields.io/badge/Collaborate-0D9488?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Research Collaboration"
+      />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/sajjancodes/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
     </a>
   </p>
 
-</div>
+  <sub>
+    Open to academic collaborations in cross-spectral imaging,
+    adverse-condition vision, and trustworthy visual AI.
+  </sub>
 
+</div>
+<!-- End Introduction -->
 
 
 
