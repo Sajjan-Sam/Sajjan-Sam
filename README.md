@@ -139,14 +139,61 @@ Nishant Jakhar, **Sajjan Singh**
 <details>
 <summary><b>📖 Click to View Publications</b></summary>
   
-1. **Jakhar, N., & Singh, S.** (2024).  
-   [Federated Learning: A Potentially Effective Method for Improving the Efficiency and Privacy of Machine Learning](https://ijcres.in/index.php/ijcr/article/view/19).  
-   *International Journal of Convergent Research (IJCR)*, 50–56.  
-   `ISSN: 3049-3064`
+### 🔬 Selected Research Publications
 
-2. **Rohit, & Singh, S.** (2024).  
-   [Improve Student Control in Virtual Classrooms using Wireless Net and IoT](https://drive.google.com/file/d/1oQl9CAgLnPezbKwbOEAw8nF0OqK1hJDh/view?usp=drivesdk).  
-   *NCFCTSD-24*, 577–584.  
+**2026 · ICML Workshop · Accepted**  
+**[Seeing Without Light: A Benchmark Thermal Dataset for Robust Gesture Recognition](https://openreview.net/forum?id=fWnyOTz0cT)**  
+Aman Singh*, **Sajjan Singh***, Bhashkar Kashyap*, Akshay Agarwal  
+*GlobalSouthML Workshop @ ICML 2026* · *Equal contribution*
+
+**2026 · NeurIPS Affinity Event · Accepted**  
+**Beyond One Reference: A Controlled Stress Test of NIR-to-RGB Evaluation under Spectral Ambiguity**  
+**Sajjan Singh**  
+*GlobalSouthAI @ NeurIPS 2026*
+
+**2026 · IEEE DELCON · Accepted**  
+**TrustDet-AD: Condition-Calibrated Reliability Scoring and Risk-Aware Gating for Object Detection in Adverse Visual Conditions**  
+**Sajjan Singh**, Mitali Chugh, Samiran Das  
+*IEEE DELCON 2026* · [Code](https://github.com/Sajjan-Sam/TrustDet-AD) · [Acceptance List](https://www.bits-pilani.ac.in/delcon2026/accepted-papers-delcon-2026/)
+
+**2024 · Journal Article**  
+**[Federated Learning: A Potentially Effective Method for Improving the Efficiency and Privacy of Machine Learning](https://ijcres.in/index.php/ijcr/article/view/19)**  
+Nishant Jakhar, **Sajjan Singh**  
+*International Journal of Convergent Research*, 1(1), 50–56
+
+---
+
+<details>
+<summary><b>📖 View Earlier Proceedings & Book Chapters (6)</b></summary>
+
+### Conference Proceedings
+
+- **2024** — Rohit, **Sajjan Singh**.  
+  *[Improve Student Control in Virtual Classrooms using Wireless Net and IoT](https://drive.google.com/file/d/1oQl9CAgLnPezbKwbOEAw8nF0OqK1hJDh/view?usp=drivesdk).*  
+  NCFCTSD-24, pp. 577–584.
+
+### Book Chapters
+
+- **2026** — **Sajjan Singh**.  
+  *[AI and the Future of Work: Redefining Skills, Jobs, and Human Potential](https://www.researchgate.net/publication/405709942).*  
+  Next-Gen Machine Learning: Algorithms for Adaptive Intelligence. Book Rivers.
+
+- **2026** — **Sajjan Singh**.  
+  *[Intelligent Financial Systems: Machine Learning Interfaces for Personalized Banking, Fraud Detection, and Advisory Platforms](https://www.researchgate.net/publication/405705595).*  
+  AI Interface Engineering: Bridging Machine Learning and User Experiences. Book Rivers.
+
+- **2024** — Nishant Jakhar, **Sajjan Singh**, Ritu.  
+  *The Role of Computers and IT in Modern Research.*  
+  Emerging Trends in Research Methodologies, MDU, pp. 154–161.
+
+- **2024** — Nishant Jakhar, **Sajjan Singh**, Rohit, Ritu.  
+  *Innovation and Invention in Technology.*  
+  Maharshi Dayanand University, pp. 59–65.
+
+- **2024** — Nishant Jakhar, Rohit, **Sajjan Singh**, Ritu.  
+  *Research and Publication Ethics in Digital Era.*  
+  Maharshi Dayanand University, pp. 112–119.
+
 
 </details>
 
